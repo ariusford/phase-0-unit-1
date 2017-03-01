@@ -1,6 +1,6 @@
 [Week 1 Home](../)
 
-# U1.W1: Introduction to Version Control, git, and GitHub
+# U1.W1: Introduction to Version Control, git, and GitHub This is arius
 
 ## Learning Competencies
 By the end of this lesson, you should be able to:
